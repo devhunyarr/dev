@@ -1,4 +1,4 @@
-# Revil Spam Bot
+# MR DEv OP
 
 
 <p align="center">
@@ -9,8 +9,8 @@ The Fastest multi spambot of Telegram🤞🤞
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/REVIL_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/REVIL_BOT_OFFICIAL"><img src="https://img.shields.io/badge/Join-OFFICIAL%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DEV_CHAT_ROOM"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DEV_CHAT_ROOM"><img src="https://img.shields.io/badge/Join-OFFICIAL%20GROUP-red.svg?logo=Telegram"></a>
 
 
 ### 🖤 ᴄʀᴇᴀᴛᴏʀ 🖤
